@@ -1,7 +1,7 @@
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    url        = "https://www.bambooflooringchina.com"
 
     [social.params]
         icon = "brand-github"
@@ -9,7 +9,7 @@
 [[social]]
     identifier = "twitter"
     name       = "Twitter"
-    url        = "https://twitter.com"
+    url        = "https://www.bambooindustry.com"
 
     [social.params]
         icon = "brand-twitter"
