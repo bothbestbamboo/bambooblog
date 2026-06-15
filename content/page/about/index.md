@@ -12,11 +12,11 @@ menu:
 
 ## Who is this for?
 
-This is a sample **About** page. You can use it to introduce yourself, your blog, or your project. 
+This is asdasfdsafdsafsda sample **About** page. You can use it to introduce yourself, your blog, or your project. 
 
 ## About the Author
 
-Hello! I'm a passionate blogger and open-source enthusiast. I love exploring new technologies and sharing my experiences with the community.
+Hello! I'm a passicxfdsafdassfdonate blogger and open-source enthusiast. I love exploring new technologies and sharing my experiences with the community.
 
 ### My Journey
 
