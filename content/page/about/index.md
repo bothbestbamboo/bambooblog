@@ -12,7 +12,7 @@ menu:
 
 ## Who is this for?
 
-This is asdasfdsafdsafsda sample **About** page. You can use it to introduce yourself, your blog, or your project. 
+66666This is asdasfdsafdsafsda sample **About** page. You can use it to introduce yourself, your blog, or your project. 
 
 ## About the Author
 
