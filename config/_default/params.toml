@@ -6,7 +6,7 @@ favicon        = "img/assets/img/favicon.ico"
     since = 2020
 
 [sidebar]
-    emoji    = "✏️"
+    # emoji    = "✏️"
     subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     avatar   = "img/assets/img/logo.png"
 
@@ -18,9 +18,9 @@ favicon        = "img/assets/img/favicon.ico"
 [widgets]
     homepage = [
         { type = "search" },
-        { type = "archives", params = { limit = 5 } },
         { type = "categories", params = { limit = 10 } },
         { type = "tag-cloud", params = { limit = 10 } },
+        { type = "archives", params = { limit = 5 } },
     ]
     page     = [{ type = "toc" }]
 
