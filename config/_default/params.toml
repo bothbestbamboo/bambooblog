@@ -1,6 +1,6 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/assets/img/favicon.ico"
+favicon        = "https://www.bambooindustry.com/favicon.ico"
 
 [footer]
     since = 2020
@@ -8,7 +8,7 @@ favicon        = "img/assets/img/favicon.ico"
 [sidebar]
     # emoji    = "✏️"
     subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/assets/img/logo.png"
+    avatar   = "https://www.bambooindustry.com/img/logo2026.png"
 
 [article]
     [article.license]
