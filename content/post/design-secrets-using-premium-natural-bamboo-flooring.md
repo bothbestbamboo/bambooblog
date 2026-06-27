@@ -2,6 +2,8 @@
 date = '2026-06-20T20:36:46+08:00'
 title = 'Design Secrets Using Premium Natural Bamboo Flooring'
 description = "High-end interior design has long been synonymous with exorbitant price tags and rare, imported materials. For generations, creating a space that exudes sophistication required a major investment in exotic hardwoods, imported marble, or custom-laid stone."
+tags = ["bamboo-flooring"]
+categories = ["bamboo"]
 +++
 !['bamboo flooring'](https://www.bambooindustry.com/images/IMG_9840.jpg)
 

@@ -1,7 +1,7 @@
 +++
 date = '2026-06-27T14:55:22+08:00'
 title = 'Joist Spacing Requirements for Exterior Bamboo Decking'
-tags = ["bamboo-flooring"]
+tags = ["bamboo-decking"]
 categories = ["bamboo"]
 description = "A deck surface is only as stable, flat, and secure as the joist network supporting it. Skimping on framing materials or overextending the distance between support joists will inevitably lead to structural complications, including surface deflection, accelerated wear on fasteners, and unwanted board movement."
 +++
