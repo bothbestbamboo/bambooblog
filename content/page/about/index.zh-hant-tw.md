@@ -1,5 +1,5 @@
 ---
-title: About Bothbest Bamboo
+title: About
 description: Welcome to Bothbest, a world-class manufacturing facility and a global leader dedicated to the research, development, and large-scale production of premium bamboo products.
 date: 2026-01-26
 lastmod: 2026-01-26
