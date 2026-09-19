@@ -1,6 +1,6 @@
 +++
 date = '2026-09-18T20:36:46+08:00'
-title = 'Bamboo Fencing vs. Wood Fencing: Which Lasts Longer?'
+title = 'Bamboo Fencing vs Wood Fencing: Which Lasts Longer'
 description = "High-end interior design has long been synonymous with exorbitant price tags and rare, imported materials. For generations, creating a space that exudes sophistication required a major investment in exotic hardwoods, imported marble, or custom-laid stone."
 tags = ["bamboo-decking"]
 categories = ["bamboo"]
