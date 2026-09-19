@@ -10,7 +10,7 @@ Choosing a property fence involves balancing curb appeal, installation effort, b
 
 Understanding how bamboo and wood age over time helps you select a material that stands up to local environmental conditions while minimizing maintenance headaches down the road.
 
-![bamboo fencing](/assets/img/20190508185136_1835.jpg)
+![bamboo fencing](/assets/image/20190508185136_1835.jpg)
 
 ---
 
