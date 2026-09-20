@@ -4,7 +4,7 @@ draft = false
 title = 'Eco‑Friendly Furniture Starts Here: Benefits of Finger Joint Pine Boards'
 description = "Discover why furniture makers, woodworkers, and interior designers rely on finger joint pine boards for sustainable, dimensionally stable, and cost-effective woodworking projects."
 image = '/assets/image/1b618f063f7c9832be6fb30313da1016.jpg'
-tags = ["bamboo-flooring"]
+tags = ["pine-plywood"]
 categories = ["bamboo"]
 +++
 
