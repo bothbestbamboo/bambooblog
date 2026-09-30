@@ -15,8 +15,8 @@ theme = "hugo-theme-stack"
     pagerSize = 10
 
 [permalinks]
-    post = "/p/:slug/"
-    page = "/:slug/"
+    post = "/p/:filename/"
+    page = "/:filename/"
 
 [services.disqus]
     shortname = "hugo-theme-stack"
