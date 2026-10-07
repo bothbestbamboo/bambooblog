@@ -2,7 +2,7 @@
 date = '2026-10-01T10:00:00+08:00'
 title = 'Cali Bamboo vs. Ambient BP: Which Brand Makes the Most Durable Bamboo Flooring?'
 description = "Compare Cali Bamboo and Ambient BP to see which brand offers the most durable bamboo flooring. Examine janka hardness, manufacturing standards, finishes, and moisture resistance."
-image = '/assets/image/202610012.jpg'
+image = '/assets/image/20261005.JPG'
 tags = ["bamboo-flooring"]
 categories = ["flooring"]
 +++
