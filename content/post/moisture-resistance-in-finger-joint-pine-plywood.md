@@ -2,7 +2,7 @@
 date = '2026-10-05T20:36:46+08:00'
 title = 'Moisture Resistance in Finger Joint Pine Plywood: What Buyers Need to Know'
 description = "Understanding moisture resistance in finger joint pine plywood is essential for sourcing durable materials. Learn about glue types, core construction, structural performance, and practical protection strategies."
-image = '/assets/image/20261005.jpg'
+image = '/assets/image/20261005.JPG'
 tags = ["pine-plywood"]
 categories = ["bamboo"]
 +++
