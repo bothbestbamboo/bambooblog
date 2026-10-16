@@ -7,8 +7,6 @@ tags = ["bamboo-veneer"]
 categories = ["bamboo"]
 +++
 
-# Comparing Bamboo Veneer Sheets vs. Techwood Veneer: Which Fits Your Project?
-
 Choosing a surface material often comes down to a quiet tension between how something looks and how it holds up once it is installed. Bamboo veneer sheets and techwood veneer sit close together on the spec sheet, yet they come from different manufacturing paths and reward different kinds of projects. If you are weighing the two for cabinetry, wall panels, furniture, or retail fit-outs, the details below should help you order with confidence rather than hope.
 
 ## What bamboo veneer sheets actually are
