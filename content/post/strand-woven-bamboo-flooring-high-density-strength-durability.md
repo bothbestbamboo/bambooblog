@@ -5,7 +5,6 @@ description = "Strand woven bamboo flooring is made by compressing shredded bamb
 image = '/assets/image/20261021-strand-bamboo-flooring.jpg'
 tags = ["bamboo-flooring"]
 categories = ["bamboo"]
-url = '/blog/strand-woven-bamboo-flooring-high-density-strength-and-durability/'
 +++
 
 Strand woven bamboo flooring is what happens when a grass is engineered into something that behaves like a dense hardwood. The material starts as Moso bamboo, a species that matures in roughly five years, and ends as a flooring plank with a hardness rating well above red oak, white oak, and hard maple. The reason is density. Where a traditional bamboo floor keeps the natural shape of the culm and glues strips together side by side, strand woven bamboo shreds the stalk into fiber bundles, saturates those bundles in resin, and compresses them under heat and pressure until the board is nearly twice as dense as the raw material it came from.
