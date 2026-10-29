@@ -2,7 +2,7 @@
 date = '2026-10-28T20:36:46+08:00'
 title = 'Outdoor Whirlpool Bathtub Privacy: 9 Stylish Screening Solutions for Complete Seclusion'
 description = "Discover 9 stylish outdoor whirlpool bathtub privacy ideas including bamboo screens, privacy curtains, trellises, frosted glass, and more. Create a secluded backyard oasis with these practical screening solutions."
-image = '/assets/images/blog/outdoor-whirlpool-bathtub-privacy.jpg'
+image = '/assets/images/outdoor-whirlpool-bathtub-privacy.jpg'
 tags = ["outdoor-bathtub"]
 categories = ["bathroom"]
 +++
