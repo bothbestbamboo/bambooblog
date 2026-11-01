@@ -1,5 +1,5 @@
 +++
-date = '2026-11-1T10:36:46+08:00'
+date = '2026-11-01T10:36:46+08:00'
 title = 'Bamboo Flooring Installation: Important Tips for a Professional Finish'
 description = "Bamboo flooring installation demands careful subfloor preparation, proper acclimation, and precise layout planning. Learn the exact steps professionals follow to achieve a flawless, long-lasting bamboo floor that resists warping and gaps."
 image = '/assets/image/bamboo-flooring-installation-cover.jpg'
